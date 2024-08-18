@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crypto-quest/static/css/main.e6c13ad2.css",
+    "main.js": "/crypto-quest/static/js/main.393edc2e.js",
+    "static/js/453.906264f0.chunk.js": "/crypto-quest/static/js/453.906264f0.chunk.js",
+    "index.html": "/crypto-quest/index.html",
+    "main.e6c13ad2.css.map": "/crypto-quest/static/css/main.e6c13ad2.css.map",
+    "main.393edc2e.js.map": "/crypto-quest/static/js/main.393edc2e.js.map",
+    "453.906264f0.chunk.js.map": "/crypto-quest/static/js/453.906264f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.393edc2e.js"
+  ]
+}
